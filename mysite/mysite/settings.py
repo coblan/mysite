@@ -25,7 +25,7 @@ SECRET_KEY = 'gw3^%1l)6gi&c&wm!(pi2u2az(m5*qs3oq+-p0$q#6=fdh!z@!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysite.enjoyst.com']
 
 
 # Application definition
